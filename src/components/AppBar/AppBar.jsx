@@ -70,7 +70,7 @@ const Navbar = () => {
                    
 
                         <Button color="inherit" >
-                                <Link to="/">
+                                <Link to="/Account">
                                 {t("Usuario")}
                                 </Link>
                                 </Button>
