@@ -51,7 +51,7 @@ const Navbar = () => {
 
 
             </Button>
-            <Button color="inherit" href='https://github.com'> Github </Button>
+            <Button color="inherit" href='https://github.com/Viridiana-24/Recordatorios_Tarea_Parcial2.git'> Github </Button>
 
             <Button color="inherit" className={`App-link ${i18n.language === "es" ? "selected" : "unselected"}`} onClick={() => changeLaguage("es")}>
                 MX
